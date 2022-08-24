@@ -1,0 +1,1 @@
+First Project to apply the basics of web design utilizing HTML, understanding of file pathing, elements and thier associated attributes, as well as file structure will be reinforced.
